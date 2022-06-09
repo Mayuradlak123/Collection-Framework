@@ -1,0 +1,2 @@
+# Collection-Framework
+I have Make a program for easy To Understand Collection Framework Concept  in this Program I have cover Linked List Array List Tree Data Structure and HashMap HashTable And all Concept of Collection Framework created  all program of Predefined Data Structure which in present in Collection Framework using this program you can Understand all Collection Framework in Build class And Function and you can know how to use it.
